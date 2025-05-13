@@ -20,10 +20,7 @@ int main()
 	}
 	
 	if (x == sum)
-	{
 		cout << "Yes";
-	}
 	else
 		cout << "No";
-	
 }
